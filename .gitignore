@@ -1,0 +1,6 @@
+start/
+project.html
+*.class
+*.jar
+bin/
+out/
